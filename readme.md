@@ -16,7 +16,7 @@ the target website. You must make your program generate a QR code that takes som
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
-![Docker Log](./Screenshot 2024-11-12 155827.png)
+![Docker Log](./dockerlog.png)
 
 ## Lesson Video
 
